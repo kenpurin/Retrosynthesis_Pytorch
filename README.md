@@ -7,3 +7,6 @@ How to install in anaconda
 2. conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch
 3. pip install nltk
 4. pip install rdkit-pypi
+5. pip install matplotlib
+6. pip install pandas
+7. pip install torchtext==0.8
